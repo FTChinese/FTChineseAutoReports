@@ -1,1 +1,5 @@
-The migration process has already been initiated. We are actively working with Superhub, our selected vendor, to ensure a smooth transition. We are currently in the process of updating the contract date due to the prolonged migration timeline. Following the resolution, we plan to follow up with the rest of the migration process and aim to finish in two weeks.
+I have discussed this with Superhub and we will work out a detailed timetable for the migration after April 2nd. By then, Hong Kong will resume work from the Easter holidays. 
+
+On the other hand, the contract we signed with an "Valid Date" of December 23, 2023 has expired. Superhub has provided another contract with the correct "Issue Date" and "Valid Date". We have completed the reconciliation process for the new contract and are awaiting signatures and stamps from Procurement Management. I just reminded Noura Mazouzi on Coupa yesterday.
+
+
