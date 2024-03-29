@@ -1,0 +1,1 @@
+The migration process has already been initiated. We are actively working with Superhub, our selected vendor, to ensure a smooth transition. We are currently in the process of updating the contract date due to the prolonged migration timeline. Following the resolution, we plan to follow up with the rest of the migration process and aim to finish in two weeks.
